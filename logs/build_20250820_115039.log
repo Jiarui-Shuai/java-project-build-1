@@ -1,0 +1,10 @@
+[2025-08-20 11:50:39] [INFO] Starting build process...
+[2025-08-20 11:50:39] [INFO] Main class specified: com.example.Main
+[2025-08-20 11:50:39] [INFO] Created directory: bin
+[2025-08-20 11:50:39] [INFO] Found 1 Java files in src directory
+[2025-08-20 11:50:39] [INFO] Compiling Java source files...
+[2025-08-20 11:50:40] [INFO] Compilation completed successfully
+[2025-08-20 11:50:40] [INFO] Creating JAR file...
+[2025-08-20 11:50:40] [DEBUG] JAR creation output: 已添加清单 正在添加: com/(输入 = 0) (输出 = 0)(存储了 0%) 正在添加: com/example/(输入 = 0) (输出 = 0)(存储了 0%) 正在添加: com/example/Main.class(输入 = 584) (输出 = 380)(压缩了 34%)
+[2025-08-20 11:50:40] [INFO] Build completed successfully! JAR file: build\myapp.jar
+[2025-08-20 11:50:40] [INFO] Log file saved to: logs\build_20250820_115039.log
